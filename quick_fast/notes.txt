@@ -1,0 +1,21 @@
+1...In PHP, it supports various request methods depending on which the capabilities and 
+functionalities to be applied to request data before sending it to the server,
+will be varied. 
+The list of PHP-supported request methods are,
+GET
+POST
+PUT
+HEAD
+We can know which method is used on server page requests, by using the $_SERVER variable‘s REQUEST_METHOD index, which we have seen recently. 
+In this article, we are going to discuss these types of PHP request methods to know their usage, limitations and etc.
+
+*************************
+2...
+addslashes() : 
+The addslashes() function is used to add backslashes in front of the characters that need to be quoted. 
+The predefined characters are single quote ('), double quote("), backslash(\) and NULL (the NULL byte).
+
+***************************
+3..
+The mysqli_num_rows() function returns the number of rows in a result set.
+The fetch_assoc() / mysqli_fetch_assoc() function fetches a result row as an associative array.
